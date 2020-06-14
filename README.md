@@ -11,6 +11,11 @@
 - [x] Introdução
 - [x] Iniciando o projeto
 - [x] Criando componente
+- [x] Inserindo Angular Material
+- [x] Criando mais componentes
+- [x] inserindo grid
+- [x] Criando model
+- [x] Criando service
 
 ## Wiki
   https://github.com/fsales/agenda-live/wiki
