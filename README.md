@@ -10,6 +10,7 @@
 
 - [x] Introdução
 - [x] Iniciando o projeto
+- [x] Criando componente
 
 ## Wiki
   https://github.com/fsales/agenda-live/wiki
